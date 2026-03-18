@@ -3,11 +3,17 @@
 I’m 渝昊, but it’s okay to call me Ewan (I have no choice). I am a curious learner exploring the world in this wonderful life. 
 
 👨‍💻 Senior Consultant at EY Financial Services
+
 💡 Studying Digital Transformation
+
 ⌨️ Also learning "the code thing"
+
 📜 Project Management Professional (PMP)® & PMI Citizen Developer Practitioner (PMI-CDP) Certified
+
 🌱 Awarded Sustainable Investing Certificate, CFA Institute, 2024
+
 🏔 Mountaineering, swimming and volleyball
+
 🌻 Charity enthusiast
 
 
