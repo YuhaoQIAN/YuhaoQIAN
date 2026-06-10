@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ewan
 
-I’m 渝昊 — you can call me Ewan.
+I’m 渝昊, you can call me Ewan.
 
 A curious learner, a thoughtful builder, and a believer in taking one steady step at a time.
 
@@ -24,11 +24,11 @@ I’m still learning how to move through this changing world with curiosity, cla
 
 ---
 
-I see the world — and myself — through different lens.
+I see the world, and myself, through different lens.
 
 The path keeps changing, so I keep walking.  
 The mountain keeps rising, so I keep climbing.  
 The world keeps moving, so I keep learning.
 
-One step at a time —  
+One step at a time,
 with purpose, with humility, and with a quiet passion to help more people thrive.
