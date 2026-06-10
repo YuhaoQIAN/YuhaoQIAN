@@ -1,20 +1,34 @@
-👋 Hi, Welcome to my profile🪐@YuhaoQIAN
+# 👋 Hi, I’m Ewan
 
-I’m 渝昊, but it’s okay to call me Ewan. I am a curious learner exploring the world in this wonderful life. 
+I’m 渝昊 — you can call me Ewan.
 
+A curious learner, a thoughtful builder, and a believer in taking one steady step at a time.
 
-📜 Project Management Professional (PMP)® & PMI Citizen Developer Practitioner (PMI-CDP) Certified
+I’m interested in the space where business, risk, technology, and human experience meet.  
+For me, good work is not only about solving problems. It is also about seeing clearly, asking better questions, and making things a little easier for the people who come after us.
 
-🌱 Awarded Sustainable Investing Certificate, CFA Institute, 2024
+How can we build things that make people’s lives a little clearer, fairer, and lighter?
 
-🏔 Mountaineering, swimming and volleyball
+I’m still learning how to move through this changing world with curiosity, clarity, and compassion.
 
-🌻 Charity enthusiast
+---
 
+### 🪐 Along the way
 
-I see the world - and myself - through a different lens. In this ever-changing world, I continue to climb, adapting, learning, and carrying my passion forward, one step at a time. My journey is driven by a commitment to fairness, striving for equal opportunities and creating spaces where everyone can thrive and contribute.
+- 📜 Project Management Professional (PMP)®
+- 📜 PMI Citizen Developer Practitioner (PMI-CDP)
+- 🌱 Sustainable Investing Certificate, CFA Institute
+- 🧭 Exploring AI, sustainability, and human-centered innovation
+- 🏔 Mountaineering, swimming, volleyball
+- 🌻 Charity enthusiast
 
-<!---
-YuhaoQIAN/YuhaoQIAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+I see the world — and myself — through different lens.
+
+The path keeps changing, so I keep walking.  
+The mountain keeps rising, so I keep climbing.  
+The world keeps moving, so I keep learning.
+
+One step at a time —  
+with purpose, with humility, and with a quiet passion to help more people thrive.
